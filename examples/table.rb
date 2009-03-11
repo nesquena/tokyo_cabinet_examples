@@ -1,7 +1,7 @@
 require 'rubygems'
 require 'rufus/tokyo'
 
-t = Rufus::Tokyo::Table.new('table.tct')
+t = Rufus::Tokyo::Table.new('../data/table.tct')
 
 t['bob'] = { 'name' => 'alfred', 'age' => '22' }
 t['pk1'] = { 'name' => 'bob', 'age' => '18' }

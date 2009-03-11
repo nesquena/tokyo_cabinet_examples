@@ -1,7 +1,7 @@
 require 'rubygems'
 require 'rufus/tokyo'
 
-db = Rufus::Tokyo::Cabinet.new('data.tch')
+db = Rufus::Tokyo::Cabinet.new('../data/data.tch')
 
 db['nada'] = 'surf'
 
