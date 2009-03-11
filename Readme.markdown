@@ -11,10 +11,10 @@ These examples were originally pulled from the tokyo documentation and blog post
 Resources
 ==========
 
- * http://tokyocabinet.sourceforge.net/rubydoc/
- * http://www.igvita.com/2009/02/13/tokyo-cabinet-beyond-key-value-store/
- * http://jmettraux.wordpress.com/2009/01/23/ruby-ffi-tokyo-cabinet/
- * http://www.scribd.com/doc/12016121/Tokyo-Cabinet-and-Tokyo-Tyrant-Presentation
+ * [Tokyo Cabinet RDoc](http://tokyocabinet.sourceforge.net/rubydoc/)
+ * [Tokyo Cabinet Overview](http://www.igvita.com/2009/02/13/tokyo-cabinet-beyond-key-value-store/)
+ * [Tokyo Cabinet FFI](http://jmettraux.wordpress.com/2009/01/23/ruby-ffi-tokyo-cabinet/)
+ * [Tokyo Cabinet Presentation](http://www.scribd.com/doc/12016121/Tokyo-Cabinet-and-Tokyo-Tyrant-Presentation)
 
 Installation
 ============
