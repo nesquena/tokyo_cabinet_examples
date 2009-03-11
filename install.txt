@@ -1,9 +1,0 @@
-git clone git://github.com/etrepum/tokyo-cabinet.git
-cd tokyo-cabinet/
-./configure
-make
-sudo make install
-
-sudo gem install ffi
-sudo gem install rufus-tokyo
-
